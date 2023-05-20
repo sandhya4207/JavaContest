@@ -2,8 +2,16 @@
 10-Day Challenge : Learn and Win a Macbook Air
 
 #Day 1:
-Pascal Triangle Execution Flow
+Ref:
+Pascal Triangle Formula:
+Any particular number on any row of the triangle can be found using the binomial coefficient. The binomial coefficient is used to find the number of r outcomes from a net of n, if the order does not matter. This is otherwise known as the number of combinations of r out of n items. For example, if there are seven colors in the color spectrum, how many different groups of four colors are there? With a combination, order does not matter, so the group (yellow, green, red, orange) is the same as (green, yellow, orange, red). The combinations of r out of n items can be denoted nCr or (n/r)  Such a combination can be found using this equation:
 
+![image](https://github.com/sandhya4207/JavaContest/assets/116782242/e37e8568-e8da-4bff-93ac-1e66d193d197)
+
+In my code i have impletented above formula.
+for better understanding read the code comments
+
+****Pascal Triangle Execution Flow****
 /*
 output:
   1
